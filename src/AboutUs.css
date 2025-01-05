@@ -1,9 +1,8 @@
 .about-us-container {
-    width: 90vw;
+    width: 60vw;
     margin: 0 auto;
-    padding: 20px;
     /* background-color: red; */
-    text-align: left;
+    text-align: center;
   }
   
   .about-us-heading {
